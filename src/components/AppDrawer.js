@@ -16,7 +16,7 @@ class AppDrawer extends Component {
                     <View style={styles.thumbnailBar}>
                         <Thumbnail style={styles.thumbnail} source={{ uri: 'https://i0.wp.com/www.winhelponline.com/blog/wp-content/uploads/2017/12/user.png?fit=256%2C256&quality=100&ssl=1' }} />
                     </View>
-                    <Text style={styles.name}>Rosikin</Text>
+                    <Text style={styles.name}>Joko Semar</Text>
                     <View style={styles.menu}>
                     <ListItem icon>
                             <Left><Icon name='md-person' /></Left>
